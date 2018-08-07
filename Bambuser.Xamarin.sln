@@ -1,0 +1,57 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bambuser.Xamarin.Broadcast", "Bambuser.Xamarin.Broadcast\Bambuser.Xamarin.Broadcast.csproj", "{522A354B-7116-4267-9657-288342219B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bambuser.Xamarin.Broadcast.Test", "Bambuser.Xamarin.Broadcast.Test\Bambuser.Xamarin.Broadcast.Test.csproj", "{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bambuser.Xamarin.Player", "Bambuser.Xamarin.Player\Bambuser.Xamarin.Player.csproj", "{35323152-FC55-48B9-B033-A8D1952FEF65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522A354B-7116-4267-9657-288342219B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Release|iPhone.Build.0 = Release|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{522A354B-7116-4267-9657-288342219B8D}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Release|Any CPU.Build.0 = Release|iPhone
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Release|iPhone.Build.0 = Release|iPhone
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E18CD289-1DAE-4903-AEDF-4B4B327BFB27}.Debug|iPhone.Build.0 = Debug|iPhone
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Release|Any CPU.Build.0 = Release|iPhone
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Release|iPhone.ActiveCfg = Release|iPhone
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Release|iPhone.Build.0 = Release|iPhone
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{35323152-FC55-48B9-B033-A8D1952FEF65}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

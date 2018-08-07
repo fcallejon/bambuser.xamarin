@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>YOUR-BUNDLE-ID</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>11.4</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+		<string>microphone</string>
+		<string>video-camera</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>XSAppIconAssets</key>
+	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Access to the microphone is required to include audio in your live video streams.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Access to the camera is required to stream live video.</string>
+	<key>UIRequiresPersistentWiFi</key>
+	<true/>
+	<key>CFBundleIdentifier</key>
+	<string>YOUR-BUNDLE-ID</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Using location</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Access to the photo library is required to save or upload photos.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Location Usage</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Access to the photo library is required to save or upload photos.</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>Custom Property</key>
+	<string>wifi</string>
+</dict>
+</plist>
